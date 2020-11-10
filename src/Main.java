@@ -21,7 +21,7 @@ public class Main {
 
         double totalFolha = folha.totalFolha(funcionarios);
 
-        
+
     }
 
 }

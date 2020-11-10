@@ -1,6 +1,5 @@
 public class FolhaPagamento {
 
-    //conjunto de funcionários??
 
     public double totalFolha(Funcionario[] funcionarios){
 
@@ -13,6 +12,5 @@ public class FolhaPagamento {
 
         return totalFolha;
     }
-
 
 }
